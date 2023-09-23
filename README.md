@@ -7,6 +7,20 @@
 npx create-remix@latest --template remix-run/indie-stack blog-tutorial
 ```
 
+## 動かし方
+
+- モジュールのインポート
+
+    ```bash
+    yarn
+    ```
+
+- アプリの起動
+
+    ```bash
+    yarn dev
+    ```
+
 ### 参考文献
 1. [React 公式ドキュメント](https://ja.react.dev/learn/start-a-new-react-project)
 2. [Remixの公式サイト](https://remix.run/)
